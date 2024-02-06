@@ -1,0 +1,14 @@
+{
+  "name": "projeto-para-o-campo",
+  "version": "1.0.0",
+  "description": "Projeto para o campo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Mestre_dev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
